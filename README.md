@@ -1,2 +1,2 @@
-# fantasy-football
-Fantasy football related tools
+# games
+Games
