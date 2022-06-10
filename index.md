@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages this is a test
+## Welcome to Dominex's website
 
 You can use the [editor on GitHub](https://github.com/dominex/fantasy-football/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
